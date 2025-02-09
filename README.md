@@ -8,20 +8,20 @@
     <Section>
       <h1>House of Love</h1>
       <h2>Leading all nations into the Love of Christ
-    </Section>
+    
     <Section>
       <H3>Cordinally invites</h3>
       <p class='Tag'>Every sunday from</p>
 <p class='Uhr'>11:30 -14:00<p>
  <p class='Tag'>Every friday from</p><p class='Uhr'>19:00-20:30<p>
-    </Section>
+    
     <Section>
     <H3>Cordialement invite</h3>
     <p class='Tag'>Tous les dimanches à partir de
 </p>
 <p class='Uhr'>11:30-14:00<p>
  <p class='Tag'>Tous les vendredis à partir de</p><p class='Uhr'>19:00-20:30<p>
-    </Section>
+    
     <Section>
       <H3>Herzliche Einladung</H3>
 <p class='Tag'>Jeden Sonntag von</p>
@@ -36,8 +36,8 @@
     <p class='Uhr'>00:00-4:00</p>
     <p class='Tag'>Tous les derniers vendredis du mois<p>
       <p class='Uhr'>00:00-4:00</p>
-    </Section>
+    
   <H5>Our Socials:</H5>
   <p> <a href='https://www.facebook.com/p/House-of-Love-Ministries-Int-Hamburg-100076542522259/?locale=de_DE'>Facebook </a><p>
     <p> <a href='https://www.youtube.com/@holmitv8087'>YouTube<p>
-  </body>
+  
